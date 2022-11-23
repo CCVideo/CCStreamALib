@@ -39,4 +39,6 @@ android {
 
 dependencies {
     embed 'com.bokecc:CCStreamALib:1.1.6'
+    implementation 'io.agora.rtc:full-sdk:3.7.1'
+    implementation 'com.github.CCVideo:CCCommonLib:1.1.10'
 }

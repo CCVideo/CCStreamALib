@@ -39,8 +39,8 @@ android {
 }
 
 dependencies {
-    implementation project(':lib')
+//    implementation project(':lib')
 
-//    implementation 'com.github.CCVideo:CCStreamALib:1.0.5'
+    implementation 'com.github.CCVideo:CCStreamALib:1.1.5'
     implementation 'com.github.CCVideo:CCCommonLib:1.1.10'
 }
